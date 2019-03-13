@@ -2104,7 +2104,7 @@ GameObject:
   - component: {fileID: 1808704826}
   - component: {fileID: 1808704825}
   m_Layer: 5
-  m_Name: Boton_dificil (1)
+  m_Name: Boton_oculto+
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2171,7 +2171,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 119120392}
-        m_MethodName: LvlDificil
+        m_MethodName: LvlOculto
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

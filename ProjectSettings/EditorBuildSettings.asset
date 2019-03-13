@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/lvlDIFICIL.unity
     guid: 2e41bbd064032d941b90d843f0380945
+  - enabled: 1
+    path: Assets/Scenes/NivelOCULTO.unity
+    guid: 1f2432d3a06cbab48b4c4e7cc28f2556
   m_configObjects: {}
