@@ -69,6 +69,10 @@ public class GameController: MonoBehaviour
     {
         SceneManager.LoadScene(sceneName: "lvlDIFICIL");
     }
+    public void LvlOculto()
+    {
+        SceneManager.LoadScene(sceneName: "NivelOCULTO");
+    }
 
     public void Mutear()
     {
